@@ -23,5 +23,5 @@ Një aplikacion bankar i thjeshtuar i ndërtuar me Python dhe Streamlit, që sim
 
 1. Klono repository-n:
 ```bash
-git clone https://github.com/[USERNAME]/mini-bank-app.git
+git clone https://github.com/Emiljano01/mini-bank-app.git
 cd mini-bank-app
