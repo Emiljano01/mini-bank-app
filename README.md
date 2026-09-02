@@ -25,3 +25,27 @@ Një aplikacion bankar i thjeshtuar i ndërtuar me Python dhe Streamlit, që sim
 ```bash
 git clone https://github.com/Emiljano01/mini-bank-app.git
 cd mini-bank-app
+```
+
+2. Krijo virtual environment dhe aktivizoje:
+```bash
+python -m venv .venv
+.venv\Scripts\activate      # Windows
+source .venv/bin/activate   # Mac/Linux
+```
+
+3. Instalo librarite:
+```bash
+pip install -r requirements.txt
+```
+
+4. Nise aplikacionin:
+```bash
+streamlit run app.py
+```
+
+## 📸 Screenshots
+
+*(Shto këtu 1-2 foto ekrani të app-it kur ta ngarkosh)*
+
+## 📁 Struktura e projektit
