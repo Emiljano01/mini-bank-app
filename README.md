@@ -43,9 +43,3 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
-
-## 📸 Screenshots
-
-*(Shto këtu 1-2 foto ekrani të app-it kur ta ngarkosh)*
-
-## 📁 Struktura e projektit
